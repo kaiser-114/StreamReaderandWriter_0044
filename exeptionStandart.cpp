@@ -5,3 +5,5 @@
 //untuk onyek array yang akan kita gunakan
 using namespace std;
 
+int main()
+{}
